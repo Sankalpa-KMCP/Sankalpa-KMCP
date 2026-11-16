@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Core Stack
+### Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,rust,tauri,cs,dotnet,tailwind,vite,sqlite,git,githubactions" />
@@ -24,9 +24,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-* **[PortPurge](https://github.com/Sankalpa-KMCP/PortPurge-System)** — Cross-platform desktop utility to inspect, manage, and safely terminate localhost processes.  
+* **[PortPurge](https://github.com/Sankalpa-KMCP/PortPurge-System)** ([v0.6.0 Release](https://github.com/Sankalpa-KMCP/PortPurge-System/releases/tag/v0.6.0)) — Cross-platform desktop utility to inspect, manage, and safely terminate localhost processes.  
   `Tauri v2` · `Rust` · `React 19` · `TypeScript`
 
 * **[Study Dashboard](https://github.com/Sankalpa-KMCP/StudyApp)** — Local-first personal workspace for subjects, tasks, notes, and SM-2 active recall sessions.  
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sankalpa-KMCP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats" />
