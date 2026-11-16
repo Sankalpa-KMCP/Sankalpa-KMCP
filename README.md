@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Sankalpa K M C P</strong> · IT Undergraduate @ SLIIT<br />
-  <em>Building local-first workspaces & developer desktop utilities</em>
+  <em>Native Desktop Utilities · Systems Engineering · Full-Stack Development</em>
 </p>
 
 <p align="center">
