@@ -11,8 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankalpa-k-m-c-p-2a900b3ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Sankalpa-KMCP/Sankalpa_KMCP"><img src="https://img.shields.io/badge/3D_Portfolio-000000?style=flat-square&logo=three.js&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/Sankalpa-KMCP?tab=repositories"><img src="https://img.shields.io/badge/Repositories-26-238636?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/Sankalpa-KMCP?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18_Public-238636?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
 ---
