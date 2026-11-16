@@ -58,7 +58,7 @@
 
     <!-- Subtitle / Mission -->
     <text x="0" y="122" class="font-sans" font-size="18" font-weight="500" fill="#334155">
-      Building local-first workspaces &amp; developer desktop utilities
+      Native Desktop Utilities · Systems Engineering · Full-Stack Development
     </text>
 
     <text x="0" y="152" class="font-sans" font-size="14" font-weight="400" fill="#64748b">
@@ -123,7 +123,7 @@
       <!-- Line 5 -->
       <text y="96" x="16"><tspan fill="#0f172a">]</tspan><tspan fill="#475569">,</tspan></text>
       <!-- Line 6 -->
-      <text y="120" x="16"><tspan fill="#475569">focus:</tspan> <tspan fill="#4f46e5">"Local-first &amp; Desktop Utilities"</tspan><tspan fill="#475569">,</tspan></text>
+      <text y="120" x="16"><tspan fill="#475569">focus:</tspan> <tspan fill="#4f46e5">"Desktop Utilities &amp; Systems"</tspan><tspan fill="#475569">,</tspan></text>
       <!-- Line 7 -->
       <text y="144" x="16"><tspan fill="#475569">latestRelease:</tspan> <tspan fill="#059669">"PortPurge v0.6.0"</tspan><tspan fill="#475569">,</tspan></text>
       <!-- Line 8 -->
