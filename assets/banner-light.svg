@@ -1,10 +1,142 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
-<title id="title">Sankalpa K M C P — software developer</title><desc id="desc">An editorial introduction beside a layered architectural illustration connecting interface, state and system.</desc>
-<defs>
- <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5F7FC"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#087366" stop-opacity=".12"/><stop offset="1" stop-color="#087366" stop-opacity="0"/></radialGradient>
- <linearGradient id="edge" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#087366"/><stop offset=".5" stop-color="#245AC5"/><stop offset="1" stop-color="#6B45B5"/></linearGradient>
- <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#B7C6DA" stroke-opacity=".16"/></pattern>
-</defs>
-<rect x="0" y="0" width="1200" height="500" rx="24" fill="url(#base)"/><rect x="0" y="0" width="1200" height="500" rx="24" fill="url(#grid)"/><path d="M64 64H104" fill="none" stroke="#087366" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><text x="120" y="70" font-size="19" font-weight="600" fill="#4C607C" font-family="'Segoe UI',Arial,sans-serif" letter-spacing="3">SOFTWARE DEVELOPER</text><text x="64" y="182" font-size="88" font-weight="700" fill="#14253F" font-family="'Segoe UI',Arial,sans-serif" letter-spacing="-3">Sankalpa</text><text x="68" y="232" font-size="32" font-weight="500" fill="#4C607C" font-family="'Segoe UI',Arial,sans-serif" letter-spacing="8">K M C P</text><text x="64" y="311" font-size="48" font-weight="400" fill="#14253F" font-family="Georgia,serif">Built with care.</text><text x="66" y="359" font-size="24" font-weight="400" fill="#4C607C" font-family="'Segoe UI',Arial,sans-serif">Local-first apps. Thoughtful developer tools.</text><path d="M64 416H660" fill="none" stroke="#B7C6DA" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><text x="66" y="458" font-size="15" font-weight="600" fill="#4C607C" font-family="'Segoe UI',Arial,sans-serif" letter-spacing="2">DESIGN THE EXPERIENCE. ENGINEER THE DETAILS.</text><g transform="translate(760 43) scale(1.02)"><circle cx="205" cy="175" r="175" fill="url(#glow)"/><path d="M25 218L205 312L385 218 M25 163L205 257L385 163 M25 108L205 202L385 108" fill="none" stroke="#B7C6DA" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><path d="M205 26V326 M25 108V218 M385 108V218" fill="none" stroke="#B7C6DA" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 8"/><path d="M55 194L205 118L355 194L205 272Z" fill="#FFFFFF" stroke="#B7C6DA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /><path d="M55 194V208L205 286L355 208V194" fill="#E8EEF7" stroke="#B7C6DA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /><path d="M55 194L205 272L355 194" fill="none" stroke="#6B45B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M55 142L205 66L355 142L205 220Z" fill="#FFFFFF" stroke="#B7C6DA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /><path d="M55 142V156L205 234L355 156V142" fill="#E8EEF7" stroke="#B7C6DA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /><path d="M55 142L205 220L355 142" fill="none" stroke="#245AC5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M55 90L205 14L355 90L205 168Z" fill="#FFFFFF" stroke="#B7C6DA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /><path d="M55 90V104L205 182L355 104V90" fill="#E8EEF7" stroke="#B7C6DA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /><path d="M55 90L205 168L355 90" fill="none" stroke="#087366" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M117 74L205 29L293 74L205 120Z" fill="#DFF1EC" stroke="#087366" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><path d="M205 47l25 13 -25 13 -25 -13Z" fill="#FFFFFF" stroke="#087366" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><path d="M243 67l25 13 -25 13 -25 -13Z" fill="#FFFFFF" stroke="#245AC5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><path d="M167 67l25 13 -25 13 -25 -13Z" fill="#FFFFFF" stroke="#245AC5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><path d="M205 87l25 13 -25 13 -25 -13Z" fill="#FFFFFF" stroke="#6B45B5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><path d="M18 85H64 M347 232H392 M205 312V340" fill="none" stroke="#4C607C" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><text x="-1" y="70" font-size="15" font-weight="600" fill="#4C607C" font-family="'Segoe UI',Arial,sans-serif" letter-spacing="2">INTERFACE</text><text x="303" y="260" font-size="15" font-weight="600" fill="#4C607C" font-family="'Segoe UI',Arial,sans-serif" letter-spacing="2">STATE</text><text x="156" y="363" font-size="15" font-weight="600" fill="#4C607C" font-family="'Segoe UI',Arial,sans-serif" letter-spacing="2">SYSTEM</text></g><rect x="0.75" y="0.75" width="1198.5" height="498.5" rx="24" fill="none" stroke="#B7C6DA" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none">
+  <defs>
+    <linearGradient id="bg-grad-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#f1f5f9" />
+    </linearGradient>
+
+    <radialGradient id="glow-cyan-light" cx="20%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow-purple-light" cx="85%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="card-border-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#cbd5e1" stop-opacity="0.8" />
+    </linearGradient>
+
+    <linearGradient id="badge-grad-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.06" />
+    </linearGradient>
+
+    <pattern id="dot-grid-light" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', Menlo, Monaco, Consolas, monospace; }
+  </style>
+
+  <!-- Base background -->
+  <rect width="1200" height="380" rx="16" fill="url(#bg-grad-light)" />
+  <rect width="1200" height="380" rx="16" fill="url(#dot-grid-light)" />
+  <rect width="1200" height="380" rx="16" fill="url(#glow-cyan-light)" />
+  <rect width="1200" height="380" rx="16" fill="url(#glow-purple-light)" />
+
+  <!-- Outer Hairline Border -->
+  <rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="15.25" fill="none" stroke="#e2e8f0" stroke-width="1.5" />
+
+  <!-- LEFT COLUMN: Identity & Bio -->
+  <g transform="translate(60, 48)">
+    <!-- Pill Badge -->
+    <rect width="242" height="28" rx="14" fill="url(#badge-grad-light)" stroke="#0284c7" stroke-width="1" stroke-opacity="0.3" />
+    <circle cx="14" cy="14" r="4" fill="#059669" />
+    <text x="26" y="18.5" class="font-sans" font-size="11.5" font-weight="600" fill="#0369a1" letter-spacing="1.2">SYSTEMS &amp; DESKTOP TOOLS</text>
+
+    <!-- Name Heading -->
+    <text x="0" y="85" class="font-sans" font-size="44" font-weight="800" fill="#0f172a" letter-spacing="-0.8">Sankalpa K M C P</text>
+
+    <!-- Subtitle / Mission -->
+    <text x="0" y="122" class="font-sans" font-size="18" font-weight="500" fill="#334155">
+      Building local-first workspaces &amp; developer desktop utilities
+    </text>
+
+    <text x="0" y="152" class="font-sans" font-size="14" font-weight="400" fill="#64748b">
+      Focused on native performance, secure local persistence, and clean UX.
+    </text>
+
+    <!-- Tech Stack Pills -->
+    <g transform="translate(0, 195)">
+      <!-- Pill 1: Tauri + Rust -->
+      <g transform="translate(0, 0)">
+        <rect width="105" height="26" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+        <text x="52.5" y="17" class="font-mono" font-size="11" font-weight="500" fill="#0284c7" text-anchor="middle">Rust · Tauri v2</text>
+      </g>
+      <!-- Pill 2: React 19 + TypeScript -->
+      <g transform="translate(115, 0)">
+        <rect width="145" height="26" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+        <text x="72.5" y="17" class="font-mono" font-size="11" font-weight="500" fill="#4f46e5" text-anchor="middle">React 19 · TypeScript</text>
+      </g>
+      <!-- Pill 3: Spring Boot + PostgreSQL -->
+      <g transform="translate(270, 0)">
+        <rect width="125" height="26" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+        <text x="62.5" y="17" class="font-mono" font-size="11" font-weight="500" fill="#059669" text-anchor="middle">Spring Boot 3</text>
+      </g>
+      <!-- Pill 4: Local-First / SQLite -->
+      <g transform="translate(405, 0)">
+        <rect width="135" height="26" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+        <text x="67.5" y="17" class="font-mono" font-size="11" font-weight="500" fill="#475569" text-anchor="middle">SQLCipher / SQLite</text>
+      </g>
+    </g>
+
+    <!-- Bottom Status Line -->
+    <g transform="translate(0, 260)">
+      <line x1="0" y1="0" x2="540" y2="0" stroke="#e2e8f0" stroke-width="1" />
+      <text x="0" y="24" class="font-mono" font-size="12" fill="#64748b">
+        SLIIT IT Undergraduate · Based in Sri Lanka · Open Source Author
+      </text>
+    </g>
+  </g>
+
+  <!-- RIGHT COLUMN: Elegant Code Terminal -->
+  <g transform="translate(670, 40)">
+    <!-- Terminal Window Container -->
+    <rect width="470" height="300" rx="10" fill="#ffffff" stroke="url(#card-border-light)" stroke-width="1.5" />
+
+    <!-- Terminal Titlebar -->
+    <rect width="470" height="36" rx="10" fill="#f8fafc" />
+    <circle cx="20" cy="18" r="5" fill="#f87171" fill-opacity="0.9" />
+    <circle cx="36" cy="18" r="5" fill="#fbbf24" fill-opacity="0.9" />
+    <circle cx="52" cy="18" r="5" fill="#34d399" fill-opacity="0.9" />
+    <text x="235" y="23" class="font-mono" font-size="11" font-weight="500" fill="#64748b" text-anchor="middle">sankalpa.config.ts</text>
+
+    <!-- Code Content -->
+    <g transform="translate(24, 66)" class="font-mono" font-size="12.5" xml:space="preserve">
+      <!-- Line 1 -->
+      <text y="0"><tspan fill="#e11d48">export const</tspan> <tspan fill="#0284c7">developer</tspan> <tspan fill="#475569">=</tspan> <tspan fill="#0f172a">{</tspan></text>
+      <!-- Line 2 -->
+      <text y="24" x="16"><tspan fill="#475569">name:</tspan> <tspan fill="#4f46e5">"Sankalpa K M C P"</tspan><tspan fill="#475569">,</tspan></text>
+      <!-- Line 3 -->
+      <text y="48" x="16"><tspan fill="#475569">coreStack:</tspan> <tspan fill="#0f172a">[</tspan></text>
+      <!-- Line 4 -->
+      <text y="72" x="32"><tspan fill="#4f46e5">"Tauri v2"</tspan><tspan fill="#475569">,</tspan> <tspan fill="#4f46e5">"Rust"</tspan><tspan fill="#475569">,</tspan> <tspan fill="#4f46e5">"React 19"</tspan><tspan fill="#475569">,</tspan> <tspan fill="#4f46e5">"TypeScript"</tspan></text>
+      <!-- Line 5 -->
+      <text y="96" x="16"><tspan fill="#0f172a">]</tspan><tspan fill="#475569">,</tspan></text>
+      <!-- Line 6 -->
+      <text y="120" x="16"><tspan fill="#475569">focus:</tspan> <tspan fill="#4f46e5">"Local-first &amp; Desktop Utilities"</tspan><tspan fill="#475569">,</tspan></text>
+      <!-- Line 7 -->
+      <text y="144" x="16"><tspan fill="#475569">latestRelease:</tspan> <tspan fill="#059669">"PortPurge v0.6.0"</tspan><tspan fill="#475569">,</tspan></text>
+      <!-- Line 8 -->
+      <text y="168" x="16"><tspan fill="#475569">status:</tspan> <tspan fill="#0284c7">"Shipping production software"</tspan></text>
+      <!-- Line 9 -->
+      <text y="194"><tspan fill="#0f172a">};</tspan></text>
+    </g>
+
+    <!-- Terminal Footer Status Bar -->
+    <rect y="272" width="470" height="28" rx="0" fill="#f8fafc" />
+    <circle cx="20" cy="286" r="3" fill="#059669" />
+    <text x="32" y="290" class="font-mono" font-size="10.5" fill="#64748b">UTF-8</text>
+    <text x="80" y="290" class="font-mono" font-size="10.5" fill="#64748b">TypeScript</text>
+    <text x="445" y="290" class="font-mono" font-size="10.5" fill="#059669" text-anchor="end">Production Ready</text>
+  </g>
 </svg>
