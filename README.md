@@ -43,8 +43,8 @@
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sankalpa-KMCP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa-KMCP&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sankalpa-KMCP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sankalpa-KMCP&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" alt="Top Languages" />
 </div>
 
 ---
