@@ -4,44 +4,41 @@
   <img src="./assets/banner-dark.svg" width="100%" alt="Sankalpa K M C P" />
 </picture>
 
-<p align="center">
-  <strong>Sankalpa K M C P</strong> · IT Undergraduate @ SLIIT<br />
-  <em>Native Desktop Utilities · Systems Engineering · Full-Stack Development</em>
-</p>
+I'm an IT undergraduate at SLIIT. I build local-first web apps and desktop utilities, with a focus on keeping users in control of their data.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sankalpa-k-m-c-p-2a900b3ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Sankalpa-KMCP?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18_Public-238636?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-</p>
+**[Try StudyApp](https://sankalpa-kmcp.github.io/StudyApp/)** · **[Download PortPurge](https://github.com/Sankalpa-KMCP/PortPurge-System/releases/latest)** · [LinkedIn](https://www.linkedin.com/in/sankalpa-k-m-c-p-2a900b3ba/)
 
----
+## Featured projects
 
-### Core Stack
+### StudyApp
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,rust,tauri,cs,dotnet,tailwind,vite,sqlite,git,githubactions" />
-</p>
+A browser-based workspace for managing subjects, tasks, notes, and focus sessions. Study data stays in IndexedDB. When you restore a JSON backup, the app validates the file before replacing existing data.
 
----
+React · TypeScript · Vite · Dexie
 
-### Featured Projects
+[Live demo](https://sankalpa-kmcp.github.io/StudyApp/) · [Repository and screenshots](https://github.com/Sankalpa-KMCP/StudyApp#screenshots)
 
-* **[PortPurge](https://github.com/Sankalpa-KMCP/PortPurge-System)** ([v0.6.0 Release](https://github.com/Sankalpa-KMCP/PortPurge-System/releases/tag/v0.6.0)) — Cross-platform desktop utility to inspect, manage, and safely terminate localhost processes.  
-  `Tauri v2` · `Rust` · `React 19` · `TypeScript`
+### PortPurge
 
-* **[Study Dashboard](https://github.com/Sankalpa-KMCP/StudyApp)** — Local-first personal workspace for subjects, tasks, notes, and SM-2 active recall sessions.  
-  `React` · `TypeScript` · `Vite` · `IndexedDB / Dexie`
+A cross-platform desktop utility for finding what’s listening on a local port. It shows the process behind the port before you act and includes controls for protected processes.
 
-* **[AG2 Router](https://github.com/Sankalpa-KMCP/AG2-Router)** — Native Windows companion and usage tracking router for Antigravity.  
-  `C# / .NET` · `WPF` · `WebView2` · `Svelte`
+Rust · Tauri · React · TypeScript
 
-* **[PromptQuiz](https://github.com/Sankalpa-KMCP/promptQuiz)** — Privacy-first, offline study tool with spaced repetition and external AI prompt generation.  
-  `React` · `Tailwind CSS v4` · `IndexedDB` · `Vite`
+[Download latest release](https://github.com/Sankalpa-KMCP/PortPurge-System/releases/latest) · [Repository](https://github.com/Sankalpa-KMCP/PortPurge-System)
 
----
+### Olympia Fitness Center
 
-<p align="center">
-  <sub>Always building, always learning · Sankalpa K M C P</sub>
-</p>
+A static site for a fitness center in Wadduwa, Sri Lanka, built with Astro and deployed to GitHub Pages. The project is set up for Vitest and Playwright.
+
+Astro · TypeScript · Tailwind CSS
+
+[Live site](https://sankalpa-kmcp.github.io/olympia-fitness-center/) · [Repository](https://github.com/Sankalpa-KMCP/olympia-fitness-center)
+
+## Other projects
+
+- [AG2 Router](https://github.com/Sankalpa-KMCP/AG2-Router) — A native Windows companion for Antigravity with account routing and a local usage dashboard. [Releases](https://github.com/Sankalpa-KMCP/AG2-Router/releases)
+- [PromptQuiz](https://github.com/Sankalpa-KMCP/promptQuiz) — An offline study tool for active recall and spaced repetition, with quiz decks stored in the browser.
+
+[Browse all repositories](https://github.com/Sankalpa-KMCP?tab=repositories)
 
 <!-- Collaborative workspace metadata -->
